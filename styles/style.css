@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Cormorant:wght@500&family=Exo+2:wght@700&family=Mate+SC&family=Merriweather:wght@700&family=Monoton&family=Noto+Sans+Bengali:wght@700&family=Open+Sans:wght@800&family=Orbitron:wght@700&family=Playfair+Display:wght@600&family=Righteous&family=Roboto:wght@500;700;900&family=Tektur:wght@600;700&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;1,200&display=swap');
+
+* {
+
+    font-family: 'Cormorant', serif;
+    font-family: 'Mate SC', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Monoton', sans-serif;
+    font-family: 'Noto Sans Bengali', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Righteous', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tektur', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Zeyada', cursive;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.box{
+    width: 59vw;
+    height: 30vh;
+    background-color: red;
+    border-radius: 20px;
+    margin-top: 2vh;
+}
+
+
+.style{
+    width: 30vh;
+}
