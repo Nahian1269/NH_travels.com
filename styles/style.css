@@ -32,3 +32,11 @@
 .style{
     width: 30vh;
 }
+
+#success{
+    display:none ;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    margin-left: 33vw;
+    margin-top:-15vh;
+}
